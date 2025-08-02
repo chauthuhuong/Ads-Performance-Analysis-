@@ -18,7 +18,6 @@ The dataset contains ad campaign data such as:
 
 ## 🛠️ Tools Used
 - **SQL Server**
-- Power BI (for visualization)
 - Window functions, ROLLUP, CTEs, PIVOT
 
 ---
